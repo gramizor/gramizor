@@ -24,7 +24,7 @@
   <li>:muscle: Striving for a fit and healthy lifestyle while aiming to contribute meaningfully to society.</li>
 </ul>
 Feel free to explore my repositories and join me on this coding adventure! 👨‍💻✨
-  <h2>:hammer_and_wrench: Tech stac </h2>
+  <h2>:hammer_and_wrench: Tech stack </h2>
   <div>
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
