@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/akashi-emperor.gif" alt="akashi" width="500">
+  <img src="/akashi-emperor.gif" alt="akashi" width="506px">
   <div id="badges">
     <a href="https://vk.com/gramizor">
        <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
@@ -10,8 +10,8 @@
     <a href="https://t.me/gramizor">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square" alt=""/>
 </div>
 <hr>
 <div id="main">
@@ -41,8 +41,12 @@ Feel free to explore my repositories and join me on this coding adventure! ðŸ‘¨â
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+<h2>:fire: My stats: </h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gramizor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gramizor&theme=dark&background=000000)](https://git.io/streak-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gramizor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![](https://www.codewars.com/users/gramizor/badges/large)
+  
   </div>
 </div>
