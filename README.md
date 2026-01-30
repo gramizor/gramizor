@@ -74,7 +74,9 @@ Real products and systems I've worked on:
 
 ### [Frost Home](https://frost-home.ru/)
 
-<img src="./frost-home.png" alt="Frost Home" width="100%">
+<a href="https://frost-home.ru/" target="_blank">
+  <img src="./frost-home.png" alt="Frost Home" width="100%">
+</a>
 
 Full-cycle product from scratch. First month reached half-year revenue target.  
 **Role:** Lead, Fullstack
@@ -84,7 +86,9 @@ Full-cycle product from scratch. First month reached half-year revenue target.
 
 ### [AsiaAlliance](https://asiaalliance.ru/)
 
-<img src="./asiaalliance.png" alt="AsiaAlliance" width="100%">
+<a href="https://asiaalliance.ru/" target="_blank">
+  <img src="./asiaalliance.png" alt="AsiaAlliance" width="100%">
+</a>
 
 Admin panel, redesign, performance recovery, team leadership.  
 **Role:** Tech Lead
@@ -96,7 +100,9 @@ Admin panel, redesign, performance recovery, team leadership.
 
 ### [Author Alarm](https://author-alarm.ru/)
 
-<img src="./author-alarm.png" alt="Author Alarm" width="100%">
+<a href="https://author-alarm.ru/" target="_blank">
+  <img src="./author-alarm.png" alt="Author Alarm" width="100%">
+</a>
 
 Internal admin system for insurance, support, and finance departments.  
 **Role:** Frontend, Architecture cleanup
@@ -104,9 +110,11 @@ Internal admin system for insurance, support, and finance departments.
 </td>
 <td width="50%" valign="top">
 
-### [isitech](https://isitech.co.za/)
+### [iSiTech](https://isitech.co.za/)
 
-<img src="./isitech.png" alt="isitech" width="100%">
+<a href="https://isitech.co.za/" target="_blank">
+  <img src="./isitech.png" alt="isitech" width="100%">
+</a>
 
 Monitoring interface for animal sensors.  
 **Role:** Frontend, Design
