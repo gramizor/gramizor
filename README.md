@@ -68,7 +68,22 @@ I help turn unclear ideas into stable, scalable systems and bring them to produc
 
 Real products and systems I've worked on:
 
+
 <table>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+### [YouGile](https://ru.yougile.com/)
+
+<a href="https://ru.yougile.com/" target="_blank">
+  <img src="./yougile.png" alt="YouGile" width="50%">
+</a>
+
+Browser extensions, CRM integrations, and core platform features.  
+**Role:** Developer in Dream Team
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -110,7 +125,7 @@ Internal admin system for insurance, support, and finance departments.
 </td>
 <td width="50%" valign="top">
 
-### [iSiTech](https://isitech.co.za/)
+### [isitech](https://isitech.co.za/)
 
 <a href="https://isitech.co.za/" target="_blank">
   <img src="./isitech.png" alt="isitech" width="100%">
