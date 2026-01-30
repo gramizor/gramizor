@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/akashi-emperor.gif" alt="akashi" width="506px">
+  <img src="/good-deal.gif" alt="good-deal" width="480px">
   <div id="badges" style="display: flex; justify-content: center; gap: 8px; margin-top: 10px;">
     <a href="https://t.me/gramizor">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
