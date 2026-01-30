@@ -73,6 +73,9 @@ Real products and systems I've worked on:
 <td width="50%" valign="top">
 
 ### [Frost Home](https://frost-home.ru/)
+
+<img src="./frost-home.png" alt="Frost Home" width="100%">
+
 Full-cycle product from scratch. First month reached half-year revenue target.  
 **Role:** Lead, Fullstack
 
@@ -80,6 +83,9 @@ Full-cycle product from scratch. First month reached half-year revenue target.
 <td width="50%" valign="top">
 
 ### [AsiaAlliance](https://asiaalliance.ru/)
+
+<img src="./asiaalliance.png" alt="AsiaAlliance" width="100%">
+
 Admin panel, redesign, performance recovery, team leadership.  
 **Role:** Tech Lead
 
@@ -89,6 +95,9 @@ Admin panel, redesign, performance recovery, team leadership.
 <td width="50%" valign="top">
 
 ### [Author Alarm](https://author-alarm.ru/)
+
+<img src="./author-alarm.png" alt="Author Alarm" width="100%">
+
 Internal admin system for insurance, support, and finance departments.  
 **Role:** Frontend, Architecture cleanup
 
@@ -96,6 +105,9 @@ Internal admin system for insurance, support, and finance departments.
 <td width="50%" valign="top">
 
 ### [isitech](https://isitech.co.za/)
+
+<img src="./isitech.png" alt="isitech" width="100%">
+
 Monitoring interface for animal sensors.  
 **Role:** Frontend, Design
 
