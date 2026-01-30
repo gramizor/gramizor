@@ -125,7 +125,7 @@ Internal admin system for insurance, support, and finance departments.
 </td>
 <td width="50%" valign="top">
 
-### [isitech](https://isitech.co.za/)
+### [iSiTech](https://isitech.co.za/)
 
 <a href="https://isitech.co.za/" target="_blank">
   <img src="./isitech.png" alt="isitech" width="100%">
