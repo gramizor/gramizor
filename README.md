@@ -64,7 +64,7 @@ I help turn unclear ideas into stable, scalable systems and bring them to produc
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Portfolio
 
 Real products and systems I've worked on:
 
